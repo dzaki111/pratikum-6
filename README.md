@@ -157,4 +157,5 @@ Pilih menu (1-5):
 
 ## berikut adalah screenshout flowchart nya
 
+![image](https://github.com/user-attachments/assets/8761102d-91ce-4ddb-9171-7d569eb823cf)
 
