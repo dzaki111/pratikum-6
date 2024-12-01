@@ -111,7 +111,7 @@ Bagian ini adalah loop utama program yang menyediakan menu interaktif untuk peng
 ```
 Menu: [1] Tambah  [2] Tampilkan  [3] Hapus  [4] Ubah  [5] Keluar
 Pilih menu (1-5): 1
-Masukkan nama mahasiswa: John
+Masukkan nama mahasiswa: Dzaki
 Masukkan nilai mahasiswa: 90
 Data Dzaki berhasil ditambahkan.
 ```
@@ -131,7 +131,7 @@ Dzaki                90
 ```
 Menu: [1] Tambah  [2] Tampilkan  [3] Hapus  [4] Ubah  [5] Keluar
 Pilih menu (1-5): 3
-Masukkan nama mahasiswa yang akan dihapus: John
+Masukkan nama mahasiswa yang akan dihapus: Dzaki
 Data Dzaki berhasil dihapus.
 ```
 
@@ -139,7 +139,7 @@ Data Dzaki berhasil dihapus.
 ```
 Menu: [1] Tambah  [2] Tampilkan  [3] Hapus  [4] Ubah  [5] Keluar
 Pilih menu (1-5): 4
-Masukkan nama mahasiswa yang akan diubah: John
+Masukkan nama mahasiswa yang akan diubah: Dzaki
 Masukkan nilai baru: 95
 Data Dzaki berhasil diubah.
 ```
