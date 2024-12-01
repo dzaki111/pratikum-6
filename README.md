@@ -141,7 +141,7 @@ Menu: [1] Tambah  [2] Tampilkan  [3] Hapus  [4] Ubah  [5] Keluar
 Pilih menu (1-5): 4
 Masukkan nama mahasiswa yang akan diubah: John
 Masukkan nilai baru: 95
-Data John berhasil diubah.
+Data Dzaki berhasil diubah.
 ```
 
 
