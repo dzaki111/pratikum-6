@@ -5,11 +5,6 @@
 
 ![Screenshot 2024-12-01 190449](https://github.com/user-attachments/assets/2c14e4d1-970e-4bd4-9d22-0b33976c6cd7)
 
-
-Program ini adalah aplikasi sederhana berbasis terminal untuk mengelola daftar nilai mahasiswa.
-Program ini memiliki fitur untuk menambah, menampilkan, menghapus, dan mengubah data mahasiswa.
-
-
 # Program Daftar Nilai Mahasiswa
 
 Program ini adalah aplikasi sederhana berbasis terminal untuk mengelola daftar nilai mahasiswa.
