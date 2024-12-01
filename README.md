@@ -113,7 +113,7 @@ Menu: [1] Tambah  [2] Tampilkan  [3] Hapus  [4] Ubah  [5] Keluar
 Pilih menu (1-5): 1
 Masukkan nama mahasiswa: John
 Masukkan nilai mahasiswa: 90
-Data John berhasil ditambahkan.
+Data Dzaki berhasil ditambahkan.
 ```
 
 **Menampilkan Data:**
@@ -124,7 +124,7 @@ Pilih menu (1-5): 2
 Daftar Nilai Mahasiswa:
 Nama                 Nilai     
 ------------------------------
-John                 90        
+Dzaki                90        
 ```
 
 **Menghapus Data:**
@@ -132,7 +132,7 @@ John                 90
 Menu: [1] Tambah  [2] Tampilkan  [3] Hapus  [4] Ubah  [5] Keluar
 Pilih menu (1-5): 3
 Masukkan nama mahasiswa yang akan dihapus: John
-Data John berhasil dihapus.
+Data Dzaki berhasil dihapus.
 ```
 
 **Mengubah Data:**
@@ -184,3 +184,7 @@ Nama                 Nilai
 ------------------------------
 Dzaki                95        
 ```
+
+## berikut adalah screenshout flowchart nya
+
+
