@@ -154,7 +154,7 @@ Pilih menu (1-5):
 
 ![Screenshot 2024-12-01 194410](https://github.com/user-attachments/assets/275e98f8-2ed0-4864-bbbf-bc13fc7ff517)
 
-## berikut adalah screenshout flowchart nya
+## flowchart nya
 
 ![image](https://github.com/user-attachments/assets/8761102d-91ce-4ddb-9171-7d569eb823cf)
 
