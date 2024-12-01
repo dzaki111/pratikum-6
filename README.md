@@ -10,6 +10,9 @@ Program ini memiliki fitur untuk menambah, menampilkan, menghapus, dan mengubah 
 
 Program ini adalah aplikasi sederhana berbasis terminal untuk mengelola daftar nilai mahasiswa.
 Berikut adalah penjelasan fungsi-fungsi yang terdapat dalam kode program.
+## Screenshout vsc
+
+![fitur tambah,cari,lihat,dll](https://github.com/user-attachments/assets/10ef2acb-8396-41d0-9053-ad0e0bf0f196)
 
 ## Penjelasan Kode
 
