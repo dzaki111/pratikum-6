@@ -2,7 +2,6 @@
 # NAMA  = DZAKI ARIF RAHMAN
 # NIM   = 312410312
 # KELAS = TI.24.A4
-# Program Daftar Nilai Mahasiswa
 
 ![Screenshot 2024-12-01 190449](https://github.com/user-attachments/assets/2c14e4d1-970e-4bd4-9d22-0b33976c6cd7)
 
