@@ -151,39 +151,9 @@ Menu: [1] Tambah  [2] Tampilkan  [3] Hapus  [4] Ubah  [5] Keluar
 Pilih menu (1-5): 
 ```
 
-### Contoh Output
-**Menambah Data**:
-```
-Masukkan nama mahasiswa: John
-Masukkan nilai mahasiswa: 90
-Data John berhasil ditambahkan.
+### Contoh screenshout Output dari vsc
 
-Daftar Nilai Mahasiswa:
-Nama                 Nilai     
-------------------------------
-Dzaki                90        
-```
-
-**Menghapus Data**:
-```
-Masukkan nama mahasiswa yang akan dihapus: John
-Data John berhasil dihapus.
-
-Daftar Nilai Mahasiswa:
-Belum ada data mahasiswa.
-```
-
-**Mengubah Data**:
-```
-Masukkan nama mahasiswa yang akan diubah: John
-Masukkan nilai baru: 95
-Data Dzaki berhasil diubah.
-
-Daftar Nilai Mahasiswa:
-Nama                 Nilai     
-------------------------------
-Dzaki                95        
-```
+![Screenshot 2024-12-01 194410](https://github.com/user-attachments/assets/275e98f8-2ed0-4864-bbbf-bc13fc7ff517)
 
 ## berikut adalah screenshout flowchart nya
 
